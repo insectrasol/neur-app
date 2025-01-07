@@ -1,4 +1,4 @@
-# Neur
+# Insectra
 
 > The Intelligent Copilot for Solana
 
